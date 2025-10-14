@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.0.4">
   <diagram name="Page-1" id="aIkv1D7KSFJMdg6yUjN-">
-    <mxGraphModel dx="1342" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3377" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TVKNo7011mGoirXIc2U3-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="39.93" height="26.5" as="geometry" />
+        <mxCell id="TVKNo7011mGoirXIc2U3-123" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;Access Network&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E6D0DE;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-226.5" y="780" width="1286.5" height="510" as="geometry" />
         </mxCell>
         <mxCell id="TVKNo7011mGoirXIc2U3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-3" target="TVKNo7011mGoirXIc2U3-4">
           <mxGeometry relative="1" as="geometry" />
@@ -22,11 +22,306 @@
         <mxCell id="TVKNo7011mGoirXIc2U3-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold; font-size: 18px;&quot;&gt;Content Delivery Network (CDN)&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;{a geographically distributed network of servers that caches content to deliver it faster to users}&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Data Centers, Edge Servers, Caching Servers]&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="540" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-7" target="TVKNo7011mGoirXIc2U3-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="430" />
+              <mxPoint x="160" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-7" target="TVKNo7011mGoirXIc2U3-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="415" />
+              <mxPoint x="280" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-7" target="TVKNo7011mGoirXIc2U3-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="400" />
+              <mxPoint x="410" y="400" />
+              <mxPoint x="410" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TVKNo7011mGoirXIc2U3-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Internet Service Provider (Tier 1 ISP)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[AT&amp;amp;T, T-Mobile]&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry y="320" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-9" target="TVKNo7011mGoirXIc2U3-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="415" />
+              <mxPoint x="520" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-9" target="TVKNo7011mGoirXIc2U3-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="430" />
+              <mxPoint x="640" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-9" target="TVKNo7011mGoirXIc2U3-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="410" />
+              <mxPoint x="380" y="410" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TVKNo7011mGoirXIc2U3-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Internet Service Provider (Tier 1 ISP)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[AT&amp;amp;T, T-Mobile]&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-13" target="TVKNo7011mGoirXIc2U3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-13" target="TVKNo7011mGoirXIc2U3-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Regional ISP (Tier 2)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-15" target="TVKNo7011mGoirXIc2U3-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-15" target="TVKNo7011mGoirXIc2U3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Regional ISP (Tier 2)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-16" target="TVKNo7011mGoirXIc2U3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-16" target="TVKNo7011mGoirXIc2U3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Regional ISP (Tier 2)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-18" target="TVKNo7011mGoirXIc2U3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-18" target="TVKNo7011mGoirXIc2U3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Internet Exhange Point (IXP)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-19" target="TVKNo7011mGoirXIc2U3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-19" target="TVKNo7011mGoirXIc2U3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Internet Exhange Point (IXP)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-35" target="TVKNo7011mGoirXIc2U3-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="820" />
+              <mxPoint x="120" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Access ISP (Tier 3)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-37" target="TVKNo7011mGoirXIc2U3-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="820" />
+              <mxPoint x="720" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Access ISP (Tier 3)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="640" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-38" target="TVKNo7011mGoirXIc2U3-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="820" />
+              <mxPoint x="590" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Access ISP (Tier 3)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-39" target="TVKNo7011mGoirXIc2U3-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="800" />
+              <mxPoint x="250" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Access ISP (Tier 3)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; Enterprise Network&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;[Company, Campus]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="835" width="560" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-49" target="TVKNo7011mGoirXIc2U3-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-49" target="TVKNo7011mGoirXIc2U3-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-49" value="" style="shape=mxgraph.cisco.routers.atm_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="161" y="910" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00000000000045" y="835" as="sourcePoint" />
+            <mxPoint x="195.00000000000045" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-51" target="TVKNo7011mGoirXIc2U3-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="1050" />
+              <mxPoint x="142" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-51" target="TVKNo7011mGoirXIc2U3-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="1050" />
+              <mxPoint x="191" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-51" target="TVKNo7011mGoirXIc2U3-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-51" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="38" y="990" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-52" target="TVKNo7011mGoirXIc2U3-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-52" target="TVKNo7011mGoirXIc2U3-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-52" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="274" y="990" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-53" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="161" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-54" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Switch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="963" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-55" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Switch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="963" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-58" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="1089" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-59" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="1089" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-62" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Mail &amp;amp; Web Server&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1169" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-63" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="112.00000000000001" y="1128.3999999999999" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-64" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1100" width="49.59" height="50.3" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-67" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1169" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-68" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1088.1" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-51" target="TVKNo7011mGoirXIc2U3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-76" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1158.85" width="49.59" height="50.3" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-77" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1128.4" width="49.59" height="50.3" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-78" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-130.41000000000005" y="970.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-80" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Wireless Access Point&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;[Wireless Router]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-150.41" y="933" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-81" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=120;" vertex="1" parent="1">
+          <mxGeometry x="-90.2" y="1058.1" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; Home Network&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="835" width="560" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-85" target="TVKNo7011mGoirXIc2U3-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-85" value="" style="shape=mxgraph.cisco.routers.atm_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="781" y="910" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-90" target="TVKNo7011mGoirXIc2U3-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-90" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="658" y="990" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-94" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Router&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="781" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-95" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Switch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="963" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-101" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1118.4" width="69.01" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-103" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1088.1" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-90" target="TVKNo7011mGoirXIc2U3-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-107" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="489.5899999999999" y="970.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-108" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Wireless Access Point&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;[Wireless Router]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="469.59000000000003" y="933" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-109" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=120;" vertex="1" parent="1">
+          <mxGeometry x="529.8" y="1058.1" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-111" value="" style="shape=mxgraph.cisco.modems_and_phones.modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="870" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-112" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;Cable / DSL Modem&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="897" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-37" target="TVKNo7011mGoirXIc2U3-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="850" />
+              <mxPoint x="938" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVKNo7011mGoirXIc2U3-111" target="TVKNo7011mGoirXIc2U3-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVKNo7011mGoirXIc2U3-119" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_generic;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1094.3500000000001" width="34.96" height="61.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
